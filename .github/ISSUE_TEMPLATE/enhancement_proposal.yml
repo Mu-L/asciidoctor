@@ -6,7 +6,7 @@ labels: [enhancement]
 body:
 - type: markdown
   attributes:
-    value: |
+    value: >-
       Enhancement proposals require prior discussion and vetting in the [project chat](https://chat.asciidoctor.org).
       If you haven't discussed this enhancement there yet, please do so before submitting a proposal here.
 - type: input

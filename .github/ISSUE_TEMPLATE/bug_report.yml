@@ -7,7 +7,7 @@ labels: [bug]
 body:
 - type: markdown
   attributes:
-    value: |
+    value: >-
       Before reporting a bug, please verify that you're using the latest patch release (refer to the CHANGELOG) and have fulfilled the prerequisites as stated in the README.
       If not, please upgrade and retest your scenario first.
       Usage questions should be directed to the [project chat](https://chat.asciidoctor.org) and are not considered bugs.
