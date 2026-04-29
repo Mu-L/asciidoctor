@@ -1,7 +1,8 @@
 name: Report a bug or security vulnerability
 description: >-
   Report a bug or security vulnerability in Asciidoctor.
-  Usage questions are not bugs; please direct those to the project chat at https://chat.asciidoctor.org.
+  Note that usage questions are not considered bugs.
+  Please direct those questions to the project chat at https://chat.asciidoctor.org.
 labels: [bug]
 body:
   - type: markdown
